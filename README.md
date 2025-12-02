@@ -28,4 +28,4 @@ Para testar o sistema, utilize um dos usuários cadastrados no banco de dados fi
 * Formatação de Strings (f-strings para moeda).
 
 ---
-Desenvolvido por **Felipe Campos** 🦁
+Desenvolvido por **Felipe de Campos** 🦁
