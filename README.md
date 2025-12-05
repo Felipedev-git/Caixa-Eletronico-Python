@@ -16,7 +16,7 @@ Para testar o sistema, utilize um dos usuários cadastrados no banco de dados fi
 - [x] **Sistema de Login:** Validação de credenciais usando Dicionários. O acesso é bloqueado se usuário ou senha estiverem incorretos.
 - [x] **Operações Financeiras:**
     - Consultar Saldo (Formatado em R$).
-    - Depósito (Soma ao saldo e registra no histórico).
+    - Depósito (Soma ao saldo e registra no histórico)
     - Saque (Verifica disponibilidade de fundos antes de subtrair).
 - [x] **Extrato Dinâmico:** Utilização de Listas (`append`) para gravar cada transação realizada e exibi-las sob demanda.
 - [x] **Loop de Menu:** O sistema mantém a sessão ativa permitindo múltiplas operações até o usuário decidir sair.
